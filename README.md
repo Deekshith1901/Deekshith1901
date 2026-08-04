@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=280&section=header&text=Deekshith%20Mamidi&fontSize=52&fontColor=F2A65A&animation=fadeIn&fontAlignY=38&desc=Aspiring%20AI%2FML%20Engineer%20%7C%20GenAI%20%26%20LLM%20Applications%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18&descColor=E8C99A" width="100%"/>
+<img src="assets/banner.svg" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F2A65A&center=true&vCenter=true&width=940&lines=Building+GenAI+%26+LLM-Powered+Applications;Shipped+2%2B+GenAI+Apps+with+40%2B+Active+Users;SIH+2025+Round-2+Qualifier+%7C+2nd+Place%2C+TechSprint;Full+Stack+Engineer+%E2%80%94+React+%2F+Next.js+%2F+Node.js;Open+to+GenAI+%2F+AI-ML+%2F+Product+Internships" alt="Typing SVG" />
@@ -233,7 +233,7 @@ Full-stack platform for exploring, comparing, and bookmarking colleges, with sea
 
 <div align="center">
 
-<a href="#"><img src="https://img.shields.io/badge/LeetCode-View%20Profile-D97706?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1A1B27"/></a>
+<a href="https://leetcode.com/u/uBlyy3VfC7/"><img src="https://img.shields.io/badge/LeetCode-View%20Profile-D97706?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1A1B27"/></a>
 <a href="https://github.com/Deekshith1901"><img src="https://img.shields.io/badge/GitHub-Deekshith1901-EA9E5C?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1B27"/></a>
 
 </div>
